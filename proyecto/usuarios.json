@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "nombre": "isabella",
+        "apellido": "villarreal",
+        "direccion": "casa2",
+        "telefono": 3213257067
+    },
+    {
+        "id": 3,
+        "nombre": "danna",
+        "apellido": "tellez",
+        "direccion": "apto303",
+        "telefono": 3334567890
+    },
+    {
+        "id": 4,
+        "nombre": "jhonayker",
+        "apellido": "quintero",
+        "direccion": "casita 23",
+        "telefono": 345678909
+    }
+]

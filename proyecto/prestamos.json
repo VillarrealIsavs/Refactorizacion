@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nombre": "liliana",
+        "herramienta_id": 10,
+        "solicitud": "pendiente",
+        "fecha_registro": "2026-02-25",
+        "fecha_devolucion": "2026-02-28",
+        "dias": 3,
+        "precio": 36000
+    }
+]

@@ -4,7 +4,6 @@ from validacionesHerramientas import validarEntero, validar_menu, nombreValido
 from historial import log
 from datetime import datetime
 
-
 ARCHIVO = "herramientas.json"
 
 def agregarHerramienta():
@@ -17,7 +16,6 @@ def agregarHerramienta():
     estadoHerramienta=validar_menu('''
                         *********************
                         seleccione una opcion:
-                                   
                         1. Buen estado
                         2. Mal estado
                         *********************
@@ -31,7 +29,6 @@ def agregarHerramienta():
     TipoHerramienta=validar_menu('''
                         **********************
                         seleccione una opcion:
-                                 
                         1. construccion
                         2. Jardineria
                         3. Electrica 
@@ -68,3 +65,4 @@ def agregarHerramienta():
     log("agregarHerramienta", "se agrego una herramienta", datetime.now())
 
 ```
+<img width="1611" height="996" alt="image" src="https://github.com/user-attachments/assets/200e169a-da54-46ef-b50d-383ee673364b" />
